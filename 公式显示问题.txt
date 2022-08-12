@@ -1,0 +1,20 @@
+
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
+//////////////
+把以上这段代码加入到markdown里面最上方
+https://editor.codecogs.com/
+这个网站可以生成latex语法
+在typora中
+快捷键ctrl+shitf+m
+然后粘贴即可
